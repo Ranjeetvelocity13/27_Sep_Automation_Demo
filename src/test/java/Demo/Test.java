@@ -7,4 +7,8 @@ public class Test {
 		System.out.println("Hi");
 	}
 
-}
+	public static void name1() {
+
+		System.out.println("Hi, I am from Test class");
+	}
+	}
