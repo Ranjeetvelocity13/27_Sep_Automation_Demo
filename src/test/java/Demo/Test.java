@@ -12,7 +12,8 @@ public class Test {
 		System.out.println("demo");
 		
 	}
-		public static void name3() {
+	
+    public static void name1() {
 		
 		System.out.println("demo");
 		
