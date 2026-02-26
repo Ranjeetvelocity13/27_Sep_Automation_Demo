@@ -12,5 +12,10 @@ public class Test {
 		System.out.println("demo");
 		
 	}
+		public static void name3() {
+		
+		System.out.println("demo");
+		
+	}
 
 }
